@@ -18,11 +18,11 @@ show rating
 
 3.Find 🔽 and follow the instructuions.
 
-4.Save and your done use a custom shortcut and run the .bat file.
+4.Save the changes And Your Done!
 
-5.Don't check for virus it has none(i can't code for shit).
+5.Don't check for virus it has none (i can't code for shit).
 
-6.Enjoy
+6.Run the Bat File and Enjoy
 
 
 ## Note:
