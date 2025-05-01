@@ -1,5 +1,6 @@
 # Whats Rvs?
 RVS is a random Video Selector tool that selects videos based on the folder its in!
+
 this is for when u don't know what to play and want something random to play this only works on video tho it also has a great Rating system.
 ## Supported Formats are:
  .mp4 .mkv .avi .mov .wmv .flv .ts .m4v
