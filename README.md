@@ -7,6 +7,9 @@ This tool also has a custom rating system after each file played!
 ## Supported Files are:
  .mp4 .mkv .avi .mov .wmv .flv .ts .m4v
 
+# Commands for Rvs:
+show rating
+
 # How To install: 
 
 1.Download the .bat file.
