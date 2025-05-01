@@ -1,0 +1,1 @@
+RVS is a random Video Selector tool that selects videos based on the folder its in and this is for when u don't know what to play and want some thing random to play this only works on video tho it also has a great Rating system
