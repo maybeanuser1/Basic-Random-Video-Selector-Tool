@@ -3,7 +3,8 @@ RVS is a random Video Selector tool that selects videos based on the folder its 
 
 this is for when u don't know what to play and want something random to play.
 
-This tool also has a custom rating system after each file played!
+This tool also has a custom rating system For your videos!
+
 ## Supported Files are:
  .mp4 .mkv .avi .mov .wmv .flv .ts .m4v 
 	.3g2 .3gp .3gp2 .3gpp .amv .asf .bdm .bdmv 
@@ -20,6 +21,7 @@ This tool also has a custom rating system after each file played!
 	.webm .wiz .wmd .wmx .wvx .xfl .xla .xvid .yuv
 
 # Commands for Rvs:
+
 show rating
 
 # How To install: 
@@ -38,4 +40,5 @@ show rating
 
 
 ## Note:
-For version 6 Rvs Might crash on invalid rating input.
+
+For version 6 Rvs Will crash on invalid rating input.
