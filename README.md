@@ -5,8 +5,9 @@ this is for when u don't know what to play and want something random to play.
 
 This tool also has a custom rating system For your videos!
 
-## Supported Files are:
+## Supported Formats Are:
  .mp4 .mkv .avi .mov .wmv .flv .ts .m4v
+ You can Also Add more Formats in the settings
 
 # Commands for Rvs:
 
