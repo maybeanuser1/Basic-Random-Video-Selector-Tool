@@ -7,11 +7,13 @@ This tool also has a custom rating system For your videos!
 
 ## Supported Formats Are:
  .mp4 .mkv .avi .mov .wmv .flv .ts .m4v
+ 
  You can Also Add more Formats in the settings
 
 # Commands for Rvs:
-
-show rating
+help
+show rating.
+video number
 
 # How To install: 
 
