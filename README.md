@@ -11,9 +11,9 @@ This tool also has a custom rating system For your videos!
  You can Also Add more Formats in the settings
 
 # Commands for Rvs:
-help
+help.
 show rating.
-video number
+video number.
 
 # How To install: 
 
