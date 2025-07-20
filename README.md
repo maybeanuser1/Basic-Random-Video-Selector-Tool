@@ -14,9 +14,9 @@ show rating
 
 # How To install: 
 
-1.Download the .bat file.
+1.Download the .bat or .py file.
 
-2.Open The .bat file with notepad++ or notepad.
+2.Open The .bat/.py file with notepad++ or notepad.
 
 3.Find 🔽 and follow the instructuions.
 
